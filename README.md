@@ -5,9 +5,9 @@
 </div>
 
 ## JooJaeHwan 👨🏻‍💻 
-### Data Scientist Jr.
+Data Scientist Jr.
 
-### Interest
+### 🎶 Interest
 - NLP ( Natural Language Processing )
 - Data Scientist
 - Data Engineering
