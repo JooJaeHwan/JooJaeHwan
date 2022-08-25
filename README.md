@@ -11,6 +11,8 @@ Data Engineer Jr.
 - NLP ( Natural Language Processing )
 - Data Scientist
 - Data Engineering
+- Big Data
+- Data Pipeline
 
 ### 💪 Skills
 #### Platforms & Languages
