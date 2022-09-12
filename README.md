@@ -23,4 +23,11 @@ Data Engineer Jr.
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS?style=flat-square&logo=Python&logoColor=white"/>
+</p>
+
+#### Learning
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white"/>
+
 </p>
