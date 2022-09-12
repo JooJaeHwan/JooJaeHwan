@@ -30,4 +30,6 @@ Data Engineer Jr.
 <p>
   <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat-square&logo=Apache Airflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
 </p>
