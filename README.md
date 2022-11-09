@@ -8,7 +8,6 @@
 Data Engineer Jr.
 
 ### 🎶 Interest
-- NLP ( Natural Language Processing )
 - Data Scientist
 - Data Engineering
 - Big Data
